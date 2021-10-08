@@ -1,7 +1,7 @@
 /**
- * This smart contract code is Copyright 2017 TokenMarket Ltd. For more information see https://tokenmarket.net
+ * This smart contract code is Copyright 2021 Dipassio S.L.. For more information see https://www.dipass.io
  *
- * Licensed under the Apache License, version 2.0: https://github.com/TokenMarketNet/ico/blob/master/LICENSE.txt
+ * Licensed under the Apache License, version 2.0: https://dipass.io
  */
 
 import "zeppelin/contracts/token/ERC20/ERC20.sol";
